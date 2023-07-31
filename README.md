@@ -46,8 +46,10 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination](/Screenshot%202023-07-31%20084422.png)
-![gaussian elimination](/2.png)
+![Screenshot 2023-07-31 084422](https://github.com/Abishai95141/Gaussian/assets/139335314/b86e8ed9-d1a6-4840-8e53-f0f06f5c9fe4)
+
+![2](https://github.com/Abishai95141/Gaussian/assets/139335314/29b5200f-9428-42ed-be14-a868a0355017)
+
 
 
 ## Result:
